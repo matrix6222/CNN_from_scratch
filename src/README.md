@@ -1,4 +1,1 @@
-# Includes
-
--asio
--stb_image
+Include asio and stb_image
