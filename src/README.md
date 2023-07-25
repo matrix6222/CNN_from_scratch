@@ -1,1 +1,1 @@
-Include asio and stb_image
+Include asio, stb_image and nlohmann/json
